@@ -18,3 +18,6 @@ This project is built for the [Gemma 3n Build for Impact Challenge]. It provides
 For each daily health entry, we generate a natural language report and run:
 ```bash
 ollama run gemma3n:e4b "Daily Health Report..."
+
+## Important
+The live demo uses fallback logic due to Streamlit Cloud limitations. Full AI recommendation is available with Ollama locally.
