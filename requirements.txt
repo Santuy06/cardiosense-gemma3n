@@ -1,0 +1,8 @@
+requirements
+
+
+streamlit>=1.30.0
+pandas
+matplotlib
+scikit-learn
+joblib
