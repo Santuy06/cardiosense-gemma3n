@@ -1,6 +1,6 @@
 # 💓 CardioSense - AI-Powered Cardiovascular Health Monitor
 
-A privacy-first, offline-capable health dashboard using **Gemma 3n** (via Ollama) and **machine learning** to detect cardiovascular risks — optimized for accessibility and real-world impact..
+A privacy-first, offline-capable health dashboard using **Gemma 3n** (via Ollama) and **machine learning** to detect cardiovascular risks — optimized for accessibility and real-world impact.
 
 ---
 
